@@ -1,0 +1,2 @@
+# kamino-assets
+Kamino CDN
