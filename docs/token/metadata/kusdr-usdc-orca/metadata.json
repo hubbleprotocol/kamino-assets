@@ -1,0 +1,6 @@
+{
+  "name": "Kamino USDR-USDC (Orca)",
+  "symbol": "kUSDR-USDC",
+  "description": "kToken representing a deposit in Kamino Finance's USDR-USDC Orca vault",
+  "image": "https://raw.githubusercontent.com/hubbleprotocol/kamino-assets/master/token/metadata/kusdr-usdc-orca/image.svg"
+}

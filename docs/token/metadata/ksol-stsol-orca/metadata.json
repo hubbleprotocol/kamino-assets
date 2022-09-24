@@ -1,0 +1,6 @@
+{
+  "name": "Kamino SOL-stSOL (Orca)",
+  "symbol": "kSOL-STSOL",
+  "description": "kToken representing a deposit in Kamino Finance's SOL-stSOL Orca vault",
+  "image": "https://raw.githubusercontent.com/hubbleprotocol/kamino-assets/master/token/metadata/ksol-stsol-orca/image.svg"
+}
